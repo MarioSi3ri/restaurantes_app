@@ -1,4 +1,4 @@
-# restaurantes_app
+# Restaurantes_APP
 
 Restaurantes con operaciones CRUD en Flutter y Dart.
 
