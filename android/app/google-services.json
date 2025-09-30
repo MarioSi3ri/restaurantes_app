@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723578727805",
+    "project_id": "restaurantes-31a33",
+    "storage_bucket": "restaurantes-31a33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723578727805:android:703d52f95d1b8fbe5db014",
+        "android_client_info": {
+          "package_name": "com.mario.restaurantes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbzlMKeA5erEwmoET6Ie62-h30cUb9D7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
