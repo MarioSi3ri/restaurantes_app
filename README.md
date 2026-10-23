@@ -82,7 +82,7 @@ restaurantes_app/
 ├── test/                            # Pruebas del proyecto Flutter
 ├── web/                             # Configuración de la plataforma web
 ├── AndroidStudioProjects/           # Proyecto inicial generado por Android Studio
-├── analysis_options.yaml             # Reglas de análisis estático de Dart
+├── analysis_options.yaml            # Reglas de análisis estático de Dart
 ├── firebase.json                    # Configuración de FlutterFire
 ├── pubspec.yaml                     # Dependencias y metadatos del proyecto
 ├── pubspec.lock                     # Versiones bloqueadas de dependencias
